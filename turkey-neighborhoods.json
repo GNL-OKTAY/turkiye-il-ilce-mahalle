@@ -1,0 +1,208 @@
+{
+    "neighborhoods": {
+        "34": {
+            "23": [
+                {
+                    "id": 1,
+                    "name": "Caferağa",
+                    "latitude": "40.9897",
+                    "longitude": "29.0282"
+                },
+                {
+                    "id": 2,
+                    "name": "Fenerbahçe",
+                    "latitude": "40.9697",
+                    "longitude": "29.0361"
+                },
+                {
+                    "id": 3,
+                    "name": "Göztepe",
+                    "latitude": "40.9772",
+                    "longitude": "29.0612"
+                },
+                {
+                    "id": 4,
+                    "name": "Koşuyolu",
+                    "latitude": "40.9897",
+                    "longitude": "29.0282"
+                },
+                {
+                    "id": 5,
+                    "name": "Moda",
+                    "latitude": "40.9772",
+                    "longitude": "29.0612"
+                },
+                {
+                    "id": 6,
+                    "name": "Osmanağa",
+                    "latitude": "40.9897",
+                    "longitude": "29.0282"
+                },
+                {
+                    "id": 7,
+                    "name": "Rasimpaşa",
+                    "latitude": "40.9897",
+                    "longitude": "29.0282"
+                },
+                {
+                    "id": 8,
+                    "name": "Sahrayıcedit",
+                    "latitude": "40.9772",
+                    "longitude": "29.0612"
+                }
+            ],
+            "38": [
+                {
+                    "id": 1,
+                    "name": "Acıbadem",
+                    "latitude": "41.0107",
+                    "longitude": "29.0474"
+                },
+                {
+                    "id": 2,
+                    "name": "Altunizade",
+                    "latitude": "41.0224",
+                    "longitude": "29.0474"
+                },
+                {
+                    "id": 3,
+                    "name": "Beylerbeyi",
+                    "latitude": "41.0424",
+                    "longitude": "29.0404"
+                },
+                {
+                    "id": 4,
+                    "name": "Bulgurlu",
+                    "latitude": "41.0107",
+                    "longitude": "29.0474"
+                },
+                {
+                    "id": 5,
+                    "name": "Çengelköy",
+                    "latitude": "41.0524",
+                    "longitude": "29.0474"
+                },
+                {
+                    "id": 6,
+                    "name": "Kısıklı",
+                    "latitude": "41.0224",
+                    "longitude": "29.0474"
+                },
+                {
+                    "id": 7,
+                    "name": "Kuzguncuk",
+                    "latitude": "41.0324",
+                    "longitude": "29.0374"
+                },
+                {
+                    "id": 8,
+                    "name": "Validei Atik",
+                    "latitude": "41.0224",
+                    "longitude": "29.0474"
+                }
+            ]
+        },
+        "35": {
+            "17": [
+                {
+                    "id": 1,
+                    "name": "Alaybey",
+                    "latitude": "38.4571",
+                    "longitude": "27.1103"
+                },
+                {
+                    "id": 2,
+                    "name": "Bahariye",
+                    "latitude": "38.4571",
+                    "longitude": "27.1103"
+                },
+                {
+                    "id": 3,
+                    "name": "Bostanlı",
+                    "latitude": "38.4571",
+                    "longitude": "27.1103"
+                },
+                {
+                    "id": 4,
+                    "name": "Dedebaşı",
+                    "latitude": "38.4571",
+                    "longitude": "27.1103"
+                },
+                {
+                    "id": 5,
+                    "name": "Mavişehir",
+                    "latitude": "38.4571",
+                    "longitude": "27.1103"
+                },
+                {
+                    "id": 6,
+                    "name": "Nergiz",
+                    "latitude": "38.4571",
+                    "longitude": "27.1103"
+                },
+                {
+                    "id": 7,
+                    "name": "Tersane",
+                    "latitude": "38.4571",
+                    "longitude": "27.1103"
+                },
+                {
+                    "id": 8,
+                    "name": "Yalı",
+                    "latitude": "38.4571",
+                    "longitude": "27.1103"
+                }
+            ],
+            "21": [
+                {
+                    "id": 1,
+                    "name": "Alsancak",
+                    "latitude": "38.4192",
+                    "longitude": "27.1287"
+                },
+                {
+                    "id": 2,
+                    "name": "Göztepe",
+                    "latitude": "38.4192",
+                    "longitude": "27.1287"
+                },
+                {
+                    "id": 3,
+                    "name": "Güzelyalı",
+                    "latitude": "38.4192",
+                    "longitude": "27.1287"
+                },
+                {
+                    "id": 4,
+                    "name": "Hatay",
+                    "latitude": "38.4192",
+                    "longitude": "27.1287"
+                },
+                {
+                    "id": 5,
+                    "name": "Kahramanlar",
+                    "latitude": "38.4192",
+                    "longitude": "27.1287"
+                },
+                {
+                    "id": 6,
+                    "name": "Konak",
+                    "latitude": "38.4192",
+                    "longitude": "27.1287"
+                },
+                {
+                    "id": 7,
+                    "name": "Pasaport",
+                    "latitude": "38.4192",
+                    "longitude": "27.1287"
+                },
+                {
+                    "id": 8,
+                    "name": "Üçkuyular",
+                    "latitude": "38.4192",
+                    "longitude": "27.1287"
+                }
+            ]
+        }
+    }
+}
